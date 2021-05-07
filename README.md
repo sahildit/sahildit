@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate with open source projects
 - 🤔 I’m looking for help with docker
 - 💬 Ask me about Anything
-- 📫 How to reach me: [Instagram](https://www.instagram.com/sahilhooda564/?hl=en)
+- 📫 How to reach me: sahilhooda3500@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 2 languages (English, Hindi)
