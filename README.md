@@ -1,7 +1,7 @@
 ### Hello World, I'm Sahil 👋
 
 - 🔭 I’m currently working on my course
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and JavaScript
 - 👯 I’m looking to collaborate with open source projects
 - 🤔 I’m looking for help with docker
 - 📫 How to reach me : sahilhooda3500@gmail.com
